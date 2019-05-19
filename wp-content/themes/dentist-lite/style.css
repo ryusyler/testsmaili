@@ -116,7 +116,7 @@ ol.comment-list li{ list-style:none; margin-bottom:5px;}
 
 /*header menu css*/
 .toggle{display: block;}
-.toggle a{width:100%; color:#ffffff; background:url(/https://ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/mobile-nav.png) no-repeat right center #3e3e3e; padding:8px 10px; margin-top:5px; font-size:16px; display:none; text-align:left;}
+.toggle a{width:100%; color:#ffffff; background:url(http://localhost/https:/ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/mobile-nav.png) no-repeat right center #3e3e3e; padding:8px 10px; margin-top:5px; font-size:16px; display:none; text-align:left;}
 .toggle a:hover{color:#ffffff !important;}
 /*main menu*/
 .site-primemenu{ padding:0; z-index:9999; }
@@ -152,7 +152,7 @@ h2.sectiontitle{font-weight:600; font-size:40px; margin-bottom:50px; position:re
 
 /* = Four column box section
 -------------------------------------------------------------- */
-h2.section_title{ background:url(/https://ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/icon.png) no-repeat center bottom; font-weight:600; font-size:38px; margin-bottom:30px; position:relative; text-align:center; text-transform:uppercase; padding-bottom:50px;}
+h2.section_title{ background:url(http://localhost/https:/ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/icon.png) no-repeat center bottom; font-weight:600; font-size:38px; margin-bottom:30px; position:relative; text-align:center; text-transform:uppercase; padding-bottom:50px;}
 
 #dental_services_wrap{ background-color:#f6f6f6; text-align:center; padding:75px 0;}
 .dental_servicesbx{ padding:0; width:21.5%; display:inline-block; margin:0 4% 0 0; position:relative; text-align:center; }
@@ -227,7 +227,7 @@ h3.widget-title::after {
 
 #sidebar .search-form{ margin-bottom:20px;}
 #sidebar .search-form input.search-field{ background-color:#fff; width:80%; padding: 12px 15px 12px 15px; box-sizing:border-box; border:1px solid #ddd; }
-#sidebar .search-form input.search-submit{ background:url(/https://ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/search-icon.png) no-repeat center center #efc62c; padding: 12px 0 12px 0; font-size:0; width:20%; height:43px; float:right; border:0;}
+#sidebar .search-form input.search-submit{ background:url(http://localhost/https:/ryusyler.github.io/testsmaili/wp-content/themes/dentist-lite/images/search-icon.png) no-repeat center center #efc62c; padding: 12px 0 12px 0; font-size:0; width:20%; height:43px; float:right; border:0;}
 
 /* = Footer css
 -------------------------------------------------------------- */
